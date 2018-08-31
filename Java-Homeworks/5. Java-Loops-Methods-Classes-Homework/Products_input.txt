@@ -1,0 +1,4 @@
+Milk 1.00
+Bread 2.07
+Honey 2.05
+Eggs 0.98

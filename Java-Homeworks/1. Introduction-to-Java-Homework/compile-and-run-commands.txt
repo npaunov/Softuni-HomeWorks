@@ -1,0 +1,35 @@
+Option 1:
+
+copy file SumTwoNumbers.class
+from "1. Introduction-to-Java-Homework\out\production\1. Introduction-to-Java-Homework"
+and put it on Desktop
+then:
+
+1. Open from Start menu "run" or "search" and type "cmd" without quotes
+2. type in the console "cd Desktop" without quotes
+3. it should bring you to the Desktop directory.
+4.(optional) type "dir" without quotes to see the list of files/directories and "SumTwoNumbers.java" in it
+5. You must set the file path for javac.exe so it can compile the "SumTwoNumbers.class" file
+    - type "set path=%path%;C:\Program Files\Java\jdk1.8.0_60\bin" without the quotes
+6. type "javac SumTwoNumbers.java"
+7. now on the desktop should be a new file "SumTwoNumbers.class"
+    - type "java SumTwoNumbers" without the quotes and it will start the compiled file
+    - enter two numbers :)
+
+
+
+Option 2:
+
+1. Download the homework on C Drive
+2. find the file "SumTwoNumbers.class" inside, which is in "1. Introduction-to-Java-Homework\out\production\1. Introduction-to-Java-Homework" folder
+3. go to the address bar and copy the exact address from the folder you are in
+4. open Console (run + type "cmd" without quotes)
+5. Type "cd (and paste)" without quotes --> (and paste) use right mouse button to paste the address, press enter
+be careful after "cd" there is one space :)
+6.(optional) type "dir" without quotes to see the list of files/directories and "SumTwoNumbers.java" in it
+7. You must set the file path for javac.exe so it can compile the "SumTwoNumbers.class" file
+    - type "set path=%path%;C:\Program Files\Java\jdk1.8.0_60\bin" without the quotes
+8. type "javac SumTwoNumbers.java"
+9. now there should be a new file "SumTwoNumbers.class"
+    - type "java SumTwoNumbers" without the quotes and it will start the compiled file
+    - enter two numbers :)
