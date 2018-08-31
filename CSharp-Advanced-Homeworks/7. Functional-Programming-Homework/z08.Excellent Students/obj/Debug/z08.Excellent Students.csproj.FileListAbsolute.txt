@@ -1,0 +1,8 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z08.Excellent Students\bin\Debug\z08.Excellent Students.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z08.Excellent Students\bin\Debug\z08.Excellent Students.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z08.Excellent Students\bin\Debug\z08.Excellent Students.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z08.Excellent Students\obj\Debug\z08.Excellent Students.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z08.Excellent Students\obj\Debug\z08.Excellent Students.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z08.Excellent Students\bin\Debug\z08.Excellent Students.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z08.Excellent Students\obj\Debug\z08.Excellent Students.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z08.Excellent Students\obj\Debug\z08.Excellent Students.pdb

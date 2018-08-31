@@ -1,0 +1,11 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\bin\Debug\z02.Maximal Sum.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\bin\Debug\z02.Maximal Sum.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\bin\Debug\z02.Maximal Sum.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\obj\Debug\z02.Maximal Sum.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\obj\Debug\z02.Maximal Sum.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\bin\Debug\z02.Maximal Sum.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\obj\Debug\z02.Maximal Sum.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\obj\Debug\z02.Maximal Sum.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\bin\Debug\z02.Maximal Sum.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\bin\Debug\z02.Maximal Sum.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z02.Maximal Sum\obj\Debug\z02.Maximal Sum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z06.Number Calculations\bin\Debug\z06.Number Calculations.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z06.Number Calculations\bin\Debug\z06.Number Calculations.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z06.Number Calculations\bin\Debug\z06.Number Calculations.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z06.Number Calculations\obj\Debug\z06.Number Calculations.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z06.Number Calculations\obj\Debug\z06.Number Calculations.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z06.Number Calculations\obj\Debug\z06.Number Calculations.pdb

@@ -1,0 +1,3 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z10.Students Enrolled in 2014\bin\Debug\z10.Students Enrolled in 2014.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z10.Students Enrolled in 2014\obj\Debug\z10.Students Enrolled in 2014.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z10.Students Enrolled in 2014\obj\Debug\z10.Students Enrolled in 2014.pdb

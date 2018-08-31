@@ -1,0 +1,9 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z05.Reverse Number\bin\Debug\z05.Reverse Number.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z05.Reverse Number\bin\Debug\z05.Reverse Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z05.Reverse Number\bin\Debug\z05.Reverse Number.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z05.Reverse Number\obj\Debug\z05.Reverse Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z05.Reverse Number\obj\Debug\z05.Reverse Number.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z05.Reverse Number\obj\Debug\z05.Reverse Number.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\2.Homework- Methods\z05.Reverse Number\bin\Debug\z05.Reverse Number.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\2.Homework- Methods\z05.Reverse Number\obj\Debug\z05.Reverse Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\2.Homework- Methods\z05.Reverse Number\obj\Debug\z05.Reverse Number.pdb

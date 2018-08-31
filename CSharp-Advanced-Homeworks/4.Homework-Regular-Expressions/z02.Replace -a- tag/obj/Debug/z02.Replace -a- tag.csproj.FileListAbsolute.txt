@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z02.Replace -a- tag\bin\Debug\z02.Replace -a- tag.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z02.Replace -a- tag\bin\Debug\z02.Replace -a- tag.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z02.Replace -a- tag\bin\Debug\z02.Replace -a- tag.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z02.Replace -a- tag\obj\Debug\z02.Replace -a- tag.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z02.Replace -a- tag\obj\Debug\z02.Replace -a- tag.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z02.Replace -a- tag\obj\Debug\z02.Replace -a- tag.pdb

@@ -1,0 +1,9 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\bin\Debug\z01.Fill the Matrix.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\bin\Debug\z01.Fill the Matrix.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\bin\Debug\z01.Fill the Matrix.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\obj\Debug\z01.Fill the Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\obj\Debug\z01.Fill the Matrix.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Recursion\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\obj\Debug\z01.Fill the Matrix.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\bin\Debug\z01.Fill the Matrix.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\obj\Debug\z01.Fill the Matrix.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z01.Fill the Matrix\obj\Debug\z01.Fill the Matrix.pdb

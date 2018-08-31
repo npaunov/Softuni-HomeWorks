@@ -1,0 +1,5 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z05.Collect the Coins\bin\Debug\z05.Collect the Coins.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z05.Collect the Coins\bin\Debug\z05.Collect the Coins.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z05.Collect the Coins\bin\Debug\z05.Collect the Coins.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z05.Collect the Coins\obj\Debug\z05.Collect the Coins.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z05.Collect the Coins\obj\Debug\z05.Collect the Coins.pdb

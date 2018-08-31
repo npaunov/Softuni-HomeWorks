@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z09.Stuck Numbers\bin\Debug\z09.Stuck Numbers.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z09.Stuck Numbers\bin\Debug\z09.Stuck Numbers.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z09.Stuck Numbers\bin\Debug\z09.Stuck Numbers.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z09.Stuck Numbers\obj\Debug\z09.Stuck Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z09.Stuck Numbers\obj\Debug\z09.Stuck Numbers.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z09.Stuck Numbers\obj\Debug\z09.Stuck Numbers.pdb

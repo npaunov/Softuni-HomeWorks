@@ -1,0 +1,3 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z03.StudentsFirstAndLastName\bin\Debug\z03.StudentsFirstAndLastName.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z03.StudentsFirstAndLastName\obj\Debug\z03.StudentsFirstAndLastName.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z03.StudentsFirstAndLastName\obj\Debug\z03.StudentsFirstAndLastName.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z07.Phonebook\bin\Debug\z07.Phonebook.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z07.Phonebook\bin\Debug\z07.Phonebook.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z07.Phonebook\bin\Debug\z07.Phonebook.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z07.Phonebook\obj\Debug\z07.Phonebook.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z07.Phonebook\obj\Debug\z07.Phonebook.pdb

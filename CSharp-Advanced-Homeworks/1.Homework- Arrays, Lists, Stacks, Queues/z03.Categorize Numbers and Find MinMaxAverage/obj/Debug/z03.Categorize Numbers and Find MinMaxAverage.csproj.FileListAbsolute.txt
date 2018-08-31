@@ -1,0 +1,9 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\bin\Debug\z03.Categorize Numbers and Find MinMaxAverage.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\bin\Debug\z03.Categorize Numbers and Find MinMaxAverage.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\bin\Debug\z03.Categorize Numbers and Find MinMaxAverage.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\obj\Debug\z03.Categorize Numbers and Find MinMaxAverage.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\obj\Debug\z03.Categorize Numbers and Find MinMaxAverage.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\obj\Debug\z03.Categorize Numbers and Find MinMaxAverage.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\bin\Debug\z03.Categorize Numbers and Find MinMaxAverage.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\obj\Debug\z03.Categorize Numbers and Find MinMaxAverage.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z03.Categorize Numbers and Find MinMaxAverage\obj\Debug\z03.Categorize Numbers and Find MinMaxAverage.pdb

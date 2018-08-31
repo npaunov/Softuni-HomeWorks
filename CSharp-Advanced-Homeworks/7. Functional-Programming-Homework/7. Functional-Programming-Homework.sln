@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Class Student", "z01.Class Student\01.Class Student.csproj", "{85E03375-CCA3-46BC-8E8E-4CD0D8550846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Students by Group", "z02.Students by Group\02.Students by Group.csproj", "{7D0C03BF-C8AE-4E92-B7B4-08437ED8835E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.StudentsFirstAndLastName", "z03.StudentsFirstAndLastName\03.StudentsFirstAndLastName.csproj", "{226E43B4-0695-46D9-B74C-B78E774E6322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Students by Age", "z04.Students by Age\04.Students by Age.csproj", "{2ECF64EF-7C61-474C-B242-7F78B7801BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Sort Students", "z05.Sort Students\05.Sort Students.csproj", "{110C5F0B-2324-48A9-A232-F1D5BC6E603B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FilterStudentsbyEmailDomain", "z06.FilterStudentsbyEmailDomain\06.FilterStudentsbyEmailDomain.csproj", "{59D6E03B-41A2-45F4-829D-7288202AB59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Filter Students by Phone", "z07.Filter Students by Phone\07.Filter Students by Phone.csproj", "{ED6AA061-24ED-4A1B-BA00-DAF7D0B589E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Excellent Students", "z08.Excellent Students\08.Excellent Students.csproj", "{B407019A-3209-4D72-8A55-B9F7CF414F2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Weak Students", "z09.Weak Students\09.Weak Students.csproj", "{BC4818E0-74AC-4374-9DE3-E8F6E5B69137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Students Enrolled in 2014", "z10.Students Enrolled in 2014\10.Students Enrolled in 2014.csproj", "{93FF37FF-6EB3-4C6D-9F9A-95BC77E4FC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Students by Groups", "z11.Students by Groups\11.Students by Groups.csproj", "{0445F939-43A1-4CD3-9D97-C2E7DF268D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85E03375-CCA3-46BC-8E8E-4CD0D8550846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E03375-CCA3-46BC-8E8E-4CD0D8550846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E03375-CCA3-46BC-8E8E-4CD0D8550846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E03375-CCA3-46BC-8E8E-4CD0D8550846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0C03BF-C8AE-4E92-B7B4-08437ED8835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0C03BF-C8AE-4E92-B7B4-08437ED8835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0C03BF-C8AE-4E92-B7B4-08437ED8835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0C03BF-C8AE-4E92-B7B4-08437ED8835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226E43B4-0695-46D9-B74C-B78E774E6322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226E43B4-0695-46D9-B74C-B78E774E6322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226E43B4-0695-46D9-B74C-B78E774E6322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226E43B4-0695-46D9-B74C-B78E774E6322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECF64EF-7C61-474C-B242-7F78B7801BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECF64EF-7C61-474C-B242-7F78B7801BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECF64EF-7C61-474C-B242-7F78B7801BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECF64EF-7C61-474C-B242-7F78B7801BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110C5F0B-2324-48A9-A232-F1D5BC6E603B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110C5F0B-2324-48A9-A232-F1D5BC6E603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110C5F0B-2324-48A9-A232-F1D5BC6E603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110C5F0B-2324-48A9-A232-F1D5BC6E603B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D6E03B-41A2-45F4-829D-7288202AB59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D6E03B-41A2-45F4-829D-7288202AB59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D6E03B-41A2-45F4-829D-7288202AB59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D6E03B-41A2-45F4-829D-7288202AB59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6AA061-24ED-4A1B-BA00-DAF7D0B589E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6AA061-24ED-4A1B-BA00-DAF7D0B589E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6AA061-24ED-4A1B-BA00-DAF7D0B589E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6AA061-24ED-4A1B-BA00-DAF7D0B589E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B407019A-3209-4D72-8A55-B9F7CF414F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B407019A-3209-4D72-8A55-B9F7CF414F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B407019A-3209-4D72-8A55-B9F7CF414F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B407019A-3209-4D72-8A55-B9F7CF414F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4818E0-74AC-4374-9DE3-E8F6E5B69137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4818E0-74AC-4374-9DE3-E8F6E5B69137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4818E0-74AC-4374-9DE3-E8F6E5B69137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4818E0-74AC-4374-9DE3-E8F6E5B69137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FF37FF-6EB3-4C6D-9F9A-95BC77E4FC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FF37FF-6EB3-4C6D-9F9A-95BC77E4FC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FF37FF-6EB3-4C6D-9F9A-95BC77E4FC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FF37FF-6EB3-4C6D-9F9A-95BC77E4FC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0445F939-43A1-4CD3-9D97-C2E7DF268D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0445F939-43A1-4CD3-9D97-C2E7DF268D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0445F939-43A1-4CD3-9D97-C2E7DF268D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0445F939-43A1-4CD3-9D97-C2E7DF268D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

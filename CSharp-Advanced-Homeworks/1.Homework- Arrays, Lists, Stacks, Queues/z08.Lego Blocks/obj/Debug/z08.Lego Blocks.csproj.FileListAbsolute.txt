@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z08.Lego Blocks\bin\Debug\z08.Lego Blocks.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z08.Lego Blocks\bin\Debug\z08.Lego Blocks.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z08.Lego Blocks\bin\Debug\z08.Lego Blocks.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z08.Lego Blocks\obj\Debug\z08.Lego Blocks.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z08.Lego Blocks\obj\Debug\z08.Lego Blocks.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z08.Lego Blocks\obj\Debug\z08.Lego Blocks.csprojResolveAssemblyReference.cache

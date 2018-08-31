@@ -1,0 +1,9 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z02.Students by Group\bin\Debug\z02.Students by Group.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z02.Students by Group\obj\Debug\z02.Students by Group.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z02.Students by Group\bin\Debug\z02.Students by Group.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z02.Students by Group\bin\Debug\z02.Students by Group.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z02.Students by Group\obj\Debug\z02.Students by Group.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z02.Students by Group\obj\Debug\z02.Students by Group.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z02.Students by Group\bin\Debug\z02.Students by Group.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z02.Students by Group\obj\Debug\z02.Students by Group.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z02.Students by Group\obj\Debug\z02.Students by Group.pdb

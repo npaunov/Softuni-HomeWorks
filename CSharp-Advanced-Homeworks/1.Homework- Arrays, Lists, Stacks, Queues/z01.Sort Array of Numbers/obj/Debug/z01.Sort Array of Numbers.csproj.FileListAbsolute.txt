@@ -1,0 +1,12 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\bin\Debug\z01.Sort Array of Numbers.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\bin\Debug\z01.Sort Array of Numbers.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\bin\Debug\z01.Sort Array of Numbers.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\obj\Debug\z01.Sort Array of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\obj\Debug\z01.Sort Array of Numbers.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\obj\Debug\z01.Sort Array of Numbers.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\bin\Debug\z01.Sort Array of Numbers.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\obj\Debug\z01.Sort Array of Numbers.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\obj\Debug\z01.Sort Array of Numbers.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\1.Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\bin\Debug\z01.Sort Array of Numbers.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\1.Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\obj\Debug\z01.Sort Array of Numbers.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\1.Homework- Arrays, Lists, Stacks, Queues\z01.Sort Array of Numbers\obj\Debug\z01.Sort Array of Numbers.pdb

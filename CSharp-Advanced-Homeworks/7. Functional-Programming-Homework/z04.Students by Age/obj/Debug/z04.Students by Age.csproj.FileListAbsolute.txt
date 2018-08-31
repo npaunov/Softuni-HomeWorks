@@ -1,0 +1,8 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z04.Students by Age\bin\Debug\z04.Students by Age.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z04.Students by Age\bin\Debug\z04.Students by Age.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z04.Students by Age\bin\Debug\z04.Students by Age.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z04.Students by Age\obj\Debug\z04.Students by Age.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z04.Students by Age\obj\Debug\z04.Students by Age.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z04.Students by Age\bin\Debug\z04.Students by Age.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z04.Students by Age\obj\Debug\z04.Students by Age.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z04.Students by Age\obj\Debug\z04.Students by Age.pdb

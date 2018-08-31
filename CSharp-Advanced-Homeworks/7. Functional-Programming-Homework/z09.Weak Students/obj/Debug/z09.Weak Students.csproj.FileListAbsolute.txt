@@ -1,0 +1,9 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z09.Weak Students\bin\Debug\z09.Weak Students.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z09.Weak Students\bin\Debug\z09.Weak Students.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z09.Weak Students\bin\Debug\z09.Weak Students.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z09.Weak Students\obj\Debug\z09.Weak Students.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z09.Weak Students\obj\Debug\z09.Weak Students.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z09.Weak Students\obj\Debug\z09.Weak Students.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z09.Weak Students\bin\Debug\z09.Weak Students.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z09.Weak Students\obj\Debug\z09.Weak Students.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z09.Weak Students\obj\Debug\z09.Weak Students.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z07.Filter Students by Phone\bin\Debug\z07.Filter Students by Phone.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z07.Filter Students by Phone\bin\Debug\z07.Filter Students by Phone.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z07.Filter Students by Phone\bin\Debug\z07.Filter Students by Phone.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z07.Filter Students by Phone\obj\Debug\z07.Filter Students by Phone.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z07.Filter Students by Phone\obj\Debug\z07.Filter Students by Phone.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z07.Filter Students by Phone\bin\Debug\z07.Filter Students by Phone.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z07.Filter Students by Phone\obj\Debug\z07.Filter Students by Phone.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z07.Filter Students by Phone\obj\Debug\z07.Filter Students by Phone.pdb

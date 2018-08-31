@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z04.Sequences of Equal Strings\bin\Debug\z04.Sequences of Equal Strings.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z04.Sequences of Equal Strings\obj\Debug\z04.Sequences of Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z04.Sequences of Equal Strings\bin\Debug\z04.Sequences of Equal Strings.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z04.Sequences of Equal Strings\bin\Debug\z04.Sequences of Equal Strings.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z04.Sequences of Equal Strings\obj\Debug\z04.Sequences of Equal Strings.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z04.Sequences of Equal Strings\obj\Debug\z04.Sequences of Equal Strings.pdb

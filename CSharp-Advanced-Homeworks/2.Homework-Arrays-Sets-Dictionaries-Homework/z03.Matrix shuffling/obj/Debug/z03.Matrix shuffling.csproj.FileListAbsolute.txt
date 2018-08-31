@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z03.Matrix shuffling\bin\Debug\z03.Matrix shuffling.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z03.Matrix shuffling\bin\Debug\z03.Matrix shuffling.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z03.Matrix shuffling\bin\Debug\z03.Matrix shuffling.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z03.Matrix shuffling\obj\Debug\z03.Matrix shuffling.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z03.Matrix shuffling\obj\Debug\z03.Matrix shuffling.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z03.Matrix shuffling\obj\Debug\z03.Matrix shuffling.csprojResolveAssemblyReference.cache

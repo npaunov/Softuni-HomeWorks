@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z04.Sequence in Matrix\bin\Debug\z04.Sequence in Matrix.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z04.Sequence in Matrix\bin\Debug\z04.Sequence in Matrix.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z04.Sequence in Matrix\bin\Debug\z04.Sequence in Matrix.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z04.Sequence in Matrix\obj\Debug\z04.Sequence in Matrix.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z04.Sequence in Matrix\obj\Debug\z04.Sequence in Matrix.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2. Homework-Arrays-Sets-Dictionaries-Homework\z04.Sequence in Matrix\obj\Debug\z04.Sequence in Matrix.csprojResolveAssemblyReference.cache

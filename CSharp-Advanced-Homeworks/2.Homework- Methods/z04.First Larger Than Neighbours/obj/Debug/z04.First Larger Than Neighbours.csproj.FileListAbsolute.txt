@@ -1,0 +1,5 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z04.First Larger Than Neighbours\bin\Debug\z04.First Larger Than Neighbours.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z04.First Larger Than Neighbours\bin\Debug\z04.First Larger Than Neighbours.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z04.First Larger Than Neighbours\bin\Debug\z04.First Larger Than Neighbours.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z04.First Larger Than Neighbours\obj\Debug\z04.First Larger Than Neighbours.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z04.First Larger Than Neighbours\obj\Debug\z04.First Larger Than Neighbours.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nicks\Desktop\7. Functional-Programming-Homework(2)\ProblemsFrom1To11\bin\Debug\ProblemsFrom1To11.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\7. Functional-Programming-Homework(2)\ProblemsFrom1To11\bin\Debug\ProblemsFrom1To11.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\7. Functional-Programming-Homework(2)\ProblemsFrom1To11\bin\Debug\ProblemsFrom1To11.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\7. Functional-Programming-Homework(2)\ProblemsFrom1To11\bin\Debug\ProblemsFrom1To11.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\7. Functional-Programming-Homework(2)\ProblemsFrom1To11\obj\Debug\ProblemsFrom1To11.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\7. Functional-Programming-Homework(2)\ProblemsFrom1To11\obj\Debug\ProblemsFrom1To11.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\7. Functional-Programming-Homework(2)\ProblemsFrom1To11\obj\Debug\ProblemsFrom1To11.pdb

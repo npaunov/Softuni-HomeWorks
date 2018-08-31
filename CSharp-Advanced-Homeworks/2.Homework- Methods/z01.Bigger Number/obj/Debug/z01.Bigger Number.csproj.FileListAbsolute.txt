@@ -1,0 +1,9 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z01.Bigger Number\bin\Debug\z01.Bigger Number.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z01.Bigger Number\obj\Debug\z01.Bigger Number.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z01.Bigger Number\bin\Debug\z01.Bigger Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z01.Bigger Number\bin\Debug\z01.Bigger Number.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z01.Bigger Number\obj\Debug\z01.Bigger Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z01.Bigger Number\obj\Debug\z01.Bigger Number.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\2.Homework- Methods\z01.Bigger Number\bin\Debug\z01.Bigger Number.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\2.Homework- Methods\z01.Bigger Number\obj\Debug\z01.Bigger Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\2.Homework- Methods\z01.Bigger Number\obj\Debug\z01.Bigger Number.pdb

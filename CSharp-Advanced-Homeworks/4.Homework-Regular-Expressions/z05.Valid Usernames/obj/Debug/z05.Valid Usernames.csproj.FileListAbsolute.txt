@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z05.Valid Usernames\bin\Debug\z05.Valid Usernames.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z05.Valid Usernames\obj\Debug\z05.Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z05.Valid Usernames\bin\Debug\z05.Valid Usernames.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z05.Valid Usernames\bin\Debug\z05.Valid Usernames.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z05.Valid Usernames\obj\Debug\z05.Valid Usernames.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\4.Homework-Regular-Expressions\z05.Valid Usernames\obj\Debug\z05.Valid Usernames.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\bin\Debug\z06.FilterStudentsbyEmailDomain.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\bin\Debug\z06.FilterStudentsbyEmailDomain.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\bin\Debug\z06.FilterStudentsbyEmailDomain.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\obj\Debug\z06.FilterStudentsbyEmailDomain.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\7. Functional-Programming-Homework\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\obj\Debug\z06.FilterStudentsbyEmailDomain.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\bin\Debug\z06.FilterStudentsbyEmailDomain.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\obj\Debug\z06.FilterStudentsbyEmailDomain.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\My-Homeworks\7. Functional-Programming-Homework\z06.FilterStudentsbyEmailDomain\obj\Debug\z06.FilterStudentsbyEmailDomain.pdb

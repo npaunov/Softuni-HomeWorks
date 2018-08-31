@@ -1,0 +1,5 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z02.Last Digit of Number\bin\Debug\z02.Last Digit of Number.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z02.Last Digit of Number\bin\Debug\z02.Last Digit of Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z02.Last Digit of Number\bin\Debug\z02.Last Digit of Number.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z02.Last Digit of Number\obj\Debug\z02.Last Digit of Number.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z02.Last Digit of Number\obj\Debug\z02.Last Digit of Number.pdb

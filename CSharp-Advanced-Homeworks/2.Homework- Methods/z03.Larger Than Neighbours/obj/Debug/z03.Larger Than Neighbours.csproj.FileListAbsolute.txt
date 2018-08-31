@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z03.Larger Than Neighbours\bin\Debug\z03.Larger Than Neighbours.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z03.Larger Than Neighbours\bin\Debug\z03.Larger Than Neighbours.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z03.Larger Than Neighbours\bin\Debug\z03.Larger Than Neighbours.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z03.Larger Than Neighbours\obj\Debug\z03.Larger Than Neighbours.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z03.Larger Than Neighbours\obj\Debug\z03.Larger Than Neighbours.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z03.Larger Than Neighbours\obj\Debug\z03.Larger Than Neighbours.pdb

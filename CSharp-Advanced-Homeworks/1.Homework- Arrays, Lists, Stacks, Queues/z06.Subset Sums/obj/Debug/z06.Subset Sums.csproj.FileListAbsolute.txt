@@ -1,0 +1,12 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\bin\Debug\z06.Subset Sums.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\bin\Debug\z06.Subset Sums.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\bin\Debug\z06.Subset Sums.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\obj\Debug\z06.Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\obj\Debug\z06.Subset Sums.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\obj\Debug\z06.Subset Sums.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\bin\Debug\z06.Subset Sums.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\obj\Debug\z06.Subset Sums.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\obj\Debug\z06.Subset Sums.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\bin\Debug\z06.Subset Sums.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\bin\Debug\z06.Subset Sums.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\1.Homework- Arrays, Lists, Stacks, Queues\z06.Subset Sums\obj\Debug\z06.Subset Sums.csprojResolveAssemblyReference.cache

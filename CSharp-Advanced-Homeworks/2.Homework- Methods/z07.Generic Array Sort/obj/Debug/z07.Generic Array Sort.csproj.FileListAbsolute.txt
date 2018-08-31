@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z07.Generic Array Sort\bin\Debug\z07.Generic Array Sort.exe.config
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z07.Generic Array Sort\bin\Debug\z07.Generic Array Sort.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z07.Generic Array Sort\bin\Debug\z07.Generic Array Sort.pdb
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z07.Generic Array Sort\obj\Debug\z07.Generic Array Sort.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z07.Generic Array Sort\obj\Debug\z07.Generic Array Sort.exe
+C:\Users\Nicks\Google Диск\Study\Advanced C#\2.Homework- Methods\z07.Generic Array Sort\obj\Debug\z07.Generic Array Sort.pdb
