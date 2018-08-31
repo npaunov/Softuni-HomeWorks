@@ -1,0 +1,135 @@
+/***** Main *****/
+
+#wrapper {
+    background-color: #00923e;
+    width: 80%;
+    margin: 200px auto;
+    height: auto;
+    font-size: 15px;
+    padding: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+
+/***** Table *****/
+
+table {
+    margin: 20px auto;
+    /*border-collapse: collapse;*/
+    border-spacing: 0;
+    border: 1px black;
+}
+
+#left-country, #right-country {
+    width: 150px;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #c8c8c8;
+}
+
+tr#head {
+    background-color: #f8c711;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px 5px;
+}
+
+.right, #left-country, #brazil, #spain,
+#italy, #argentina, #germany {
+    text-align: right;
+}
+
+.left, #mexico, #netherlands, #england,
+#bosnia, #portugal, #right-country {
+    text-align: left;
+}
+.text-red{
+    color: red;
+}
+.text-green{
+    color: green;
+}
+
+.red-button{
+    background-image: url("pic/RedBet.png");
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px 25px;
+}
+.green-button{
+    background-image: url("pic/GreenBet.png");
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px 25px;
+}
+
+/***** Flags****/
+
+#brazil::after{
+   content: url("pic/brasil.png");
+    vertical-align: sub;
+}
+#mexico::before{
+    content: url("pic/mexico.png");
+    vertical-align: sub;
+}
+#spain::after{
+    content: url("pic/spain.png");
+    vertical-align: sub;
+}
+#netherlands::before{
+    content: url("pic/netherlands.png");
+    vertical-align: sub;
+}
+#italy::after{
+    content: url("pic/italy.png");
+    vertical-align: sub;
+}
+#england::before{
+    content: url("pic/england.png");
+    vertical-align: sub;
+}
+#argentina::after{
+    content: url("pic/argentina.png");
+    vertical-align: sub;
+}
+#bosnia::before{
+    content: url("pic/bosnia.png");
+    vertical-align: sub;
+}
+#germany::after{
+    content: url("pic/germany.png");
+    vertical-align: sub;
+}
+#portugal::before{
+    content: url("pic/portugal.png");
+    vertical-align: sub;
+}
+
+/***** Border Radius *****/
+
+table tr:last-child td:first-child {
+    border-bottom-left-radius: 10px;
+}
+
+table tr:last-child td:last-child {
+    border-bottom-right-radius: 10px;
+}
+table tr:first-child th:first-child {
+    border-top-left-radius: 10px;
+}
+
+table tr:first-child th:last-child {
+    border-top-right-radius: 10px;
+}

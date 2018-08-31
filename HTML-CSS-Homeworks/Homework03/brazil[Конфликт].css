@@ -1,0 +1,96 @@
+#wrapper {
+    background-color: #00923e;
+    width: 80%;
+    margin: 200px auto;
+    height: auto;
+    font-size: 15px;
+    padding: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+#left-country, #right-country {
+    width: 130px;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #c8c8c8;
+}
+
+tr#head {
+    background-color: #f8c711;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+td, th {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px 5px;
+}
+
+.right, #left-country, #brazil, #spain,
+#italy, #argentina, #germany {
+    text-align: right;
+}
+
+.left, #mexico, #netherlands, #england,
+#bosnia, #portugal, #right-country {
+    text-align: left;
+}
+.text-red{
+    color: red;
+}
+.text-green{
+    color: green;
+}
+
+.red-button{
+    background-image: url("pic/RedBet.png");
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px 25px;
+}
+.green-button{
+    background-image: url("pic/GreenBet.png");
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 25px 25px;
+}
+#brazil::after{
+   content: url("pic/brasil.png");
+    vertical-align: sub;
+}
+#mexico::before{
+    content: url("pic/mexico.png");
+    vertical-align: sub;
+}
+
+table tr:last-child td:first-child {
+    -moz-border-radius-bottomleft: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 10px
+}
+
+tr:last-child td:last-child {
+    -moz-border-radius-bottomright: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    border-bottom-right-radius: 10px
+
+}
+/*table, tr, td{
+    border-radius: 20px;
+}*/

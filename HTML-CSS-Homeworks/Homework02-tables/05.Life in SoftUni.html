@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Life in SoftUni</title>
+	<style>
+	body {
+		font-size: 20px;
+	}
+	table {
+		margin: 20px auto;
+	}
+	table, thead, tfoot, tr, th, td{
+		border: 1px solid black;		
+	}
+	th, td {
+		width: 100px;
+		height: 100px;
+		padding: 5px;
+	}
+	th:hover, td:hover {
+		background-color:#f5f5f5
+	}
+	th {
+		font-size: 70px;
+	}
+	tfoot {
+		text-align: right;
+	}
+	#google, #github, #fb {
+		vertical-align: top;
+	}
+	#footbeer, #github, #food {
+		text-align: right;
+	}
+	#wc, #google, #game, {
+		text-align: left;
+	}
+	#fb, #youtube {
+		text-align: center;
+	}
+	#youtube, #food, #game {
+		vertical-align: bottom;
+	}
+
+	#footbeer{
+		font-size: 30px;
+	}
+	#minitable{
+		margin: auto;
+	}
+	#minitable td{
+		font-size: 15px;
+		font-weight: bold;
+		text-align: center;
+		height: 40px;
+		margin: 0;
+	}
+	</style>
+</head>
+
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th colspan="4">
+					Softuni LIFE
+				</th>
+			</tr>
+		</thead>
+
+		<tfoot>
+			<tr>
+				<td colspan="3" id="footbeer">Beer &gt;</td>
+				<td id="wc">WC</td>
+			</tr>
+		</tfoot>
+
+		<tbody>
+			<tr>
+				<td colspan="2" id="google">Google</td>
+				<td colspan="2" id="github">Github</td>
+			</tr>
+			<tr>
+				<td id="fb">FB</td>
+				<td>Gmail</td>
+				<td id="youtube">Youtube</td>
+				<td>2048</td>
+			</tr>
+			<tr>
+				<td id="food">Food</td>
+				<td colspan="2" id="game">Game</td>
+				<td>
+					<table id="minitable">
+						<tr>
+							<td>Social Life</td>
+						</tr>
+						<tr>
+							<td>Sleep</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+</html>

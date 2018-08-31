@@ -1,0 +1,6 @@
+C:\Users\Nicks\Desktop\css\Resources\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Nicks\Desktop\css\Resources\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.dll
+C:\Users\Nicks\Desktop\css\Resources\TypeScriptHTMLApp1\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Nicks\Desktop\css\Resources\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Desktop\css\Resources\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Nicks\Desktop\css\Resources\TypeScriptHTMLApp1\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp1.pdb

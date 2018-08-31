@@ -1,0 +1,132 @@
+body {
+    background-image: url("colorful_dots_on_black.jpg");
+}
+
+body > header {
+    height: 50px;
+    background-color: #008000;
+    color: #ffff00;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+    border-left: 400px solid #ff0000;
+    border-right: 400px solid #0000ff;
+}
+
+aside > nav {
+    float: left;
+    margin: 20px 20px;
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+aside::after {
+    clear: both;
+}
+
+aside > nav > header {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+aside > nav > ul > li {
+    padding: 4px;
+    list-style-type: none;
+    display: block;
+}
+
+aside > nav > ul > li:before {
+    content: url("check.png");
+    vertical-align: sub;
+    margin-right: 5px;
+}
+
+aside > nav > ul > li:nth-child(2):hover {
+    background-color: #ffa500;
+    display: block;
+    border-radius: 7px;
+}
+
+aside > nav > ul > li > a:visited {
+    color: #c8c8c8;
+}
+
+aside nav > ul > li > a {
+    color: black;
+    text-decoration: none;
+}
+
+section {
+    float: left;
+    margin: 0 20px;
+    display: inline-block;
+    width: 75%;
+}
+
+section > article {
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+section > article > header {
+    margin-bottom: 10px;
+    border-radius: 7px;
+    background-color: blue;
+    padding: 7px;
+    font-size: 25px;
+}
+
+#webColors {
+    background-color: #ff0000;
+    color: white;
+}
+
+#webSafeColors {
+    background-color: #ffa500;
+    color: black;
+}
+
+#RGB {
+    background-color: #ffff00;
+    color: black;
+}
+
+#RGBA {
+    background-color: #008000;
+    color: white;
+}
+
+#HSLHSV {
+    background-color: #0000ff;
+    color: white;
+}
+
+#lorem {
+    background-color: #800080;
+    color: white;
+}
+
+article > div::first-line, article > span::first-line {
+    font-style: italic;
+}
+
+article > div::first-letter {
+    font-style: italic;
+    font-size: 50px;
+}
+
+span:nth-child(2) {
+    font-style: italic;
+    color: blue;
+}
+
+article > footer > a {
+    color: #808080;
+    font-style: italic;
+}

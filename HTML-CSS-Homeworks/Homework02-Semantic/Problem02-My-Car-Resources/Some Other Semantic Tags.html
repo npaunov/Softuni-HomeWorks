@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Some Other Semantic Tags</title>
+    <style>
+        p, ul {
+            margin: 0;
+            padding: 0;
+        }
+        ul {
+            list-style: none;
+
+        }
+        ul > li{
+            display: inline;
+        }
+        audio.audio {
+            background-color: black;
+            width: 250px;
+            padding-bottom: 80px;
+            padding-top: 30px;
+        }
+        audio {
+            margin: 0;
+        }
+    </style>
+</head>
+    <body>
+        <figure>
+            <p>This is my car</p>
+            <img src="fordmustang.jpg" alt="Ford Mustang pic">
+            <figcaption>
+                <p>Awesomeness complete 60%</p>
+                <meter value="0.6">60%</meter>
+            </figcaption>
+        </figure>
+
+        <h4>Imagine 355 horses simultaneously. That's how my car sounds</h4>
+
+        <ul>
+            <li>
+                <embed src="http://www.w3schools.com/tags/horse.mp3" type="">
+                    
+                    
+                </embed>
+            </li>
+            <li>
+                <audio controls autoplay class="audio">
+                    <source src="http://www.w3schools.com/tags/horse.ogg" type="audio/ogg">
+                    <source src="http://www.w3schools.com/tags/horse.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </li>
+            <li>
+                <audio controls autoplay class="audio">
+                    <source src="http://www.w3schools.com/tags/horse.ogg" type="audio/ogg">
+                    <source src="http://www.w3schools.com/tags/horse.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </li>
+            <li>
+                <audio controls autoplay>
+                    <source src="http://www.w3schools.com/tags/horse.ogg" type="audio/ogg">
+                    <source src="http://www.w3schools.com/tags/horse.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </li>
+        </ul>
+        <h4>With my car I can go anywhere!</h4>
+
+        <video width="320" height="240" controls>
+            <source src="http://www.w3schools.com/tags/movie.mp4" type="video/mp4">
+            <source src="http://www.w3schools.com/tags/movie.ogg" type="video/ogg">
+            <track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+            <track src="subtitles_no.vtt" kind="subtitles" srclang="no" label="Norwegian">
+        </video>
+
+    </body>
+</html>
