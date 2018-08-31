@@ -1,0 +1,11 @@
+#wrapper {
+    width: 80%;
+    margin: 30% auto;
+    font-size: 20px;
+}
+
+input {
+    width: 10%;
+    font-size: 20px;
+    margin: 10px 0;
+}
