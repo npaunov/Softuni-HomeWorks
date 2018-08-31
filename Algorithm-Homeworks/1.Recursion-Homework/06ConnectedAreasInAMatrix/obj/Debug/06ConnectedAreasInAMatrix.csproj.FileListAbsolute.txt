@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\06ConnectedAreasInAMatrix\bin\Debug\06ConnectedAreasInAMatrix.exe.config
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\06ConnectedAreasInAMatrix\bin\Debug\06ConnectedAreasInAMatrix.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\06ConnectedAreasInAMatrix\bin\Debug\06ConnectedAreasInAMatrix.pdb
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\06ConnectedAreasInAMatrix\obj\Debug\06ConnectedAreasInAMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\06ConnectedAreasInAMatrix\obj\Debug\06ConnectedAreasInAMatrix.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\06ConnectedAreasInAMatrix\obj\Debug\06ConnectedAreasInAMatrix.pdb

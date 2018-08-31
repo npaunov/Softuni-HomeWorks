@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\02NestedLoopsToRecursion\bin\Debug\02NestedLoopsToRecursion.exe.config
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\02NestedLoopsToRecursion\bin\Debug\02NestedLoopsToRecursion.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\02NestedLoopsToRecursion\bin\Debug\02NestedLoopsToRecursion.pdb
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\02NestedLoopsToRecursion\obj\Debug\02NestedLoopsToRecursion.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\02NestedLoopsToRecursion\obj\Debug\02NestedLoopsToRecursion.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\02NestedLoopsToRecursion\obj\Debug\02NestedLoopsToRecursion.pdb

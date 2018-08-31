@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\01TowerOfHanoi\bin\Debug\01TowerOfHanoi.exe.config
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\01TowerOfHanoi\bin\Debug\01TowerOfHanoi.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\01TowerOfHanoi\bin\Debug\01TowerOfHanoi.pdb
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\01TowerOfHanoi\obj\Debug\01TowerOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\01TowerOfHanoi\obj\Debug\01TowerOfHanoi.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\01TowerOfHanoi\obj\Debug\01TowerOfHanoi.pdb

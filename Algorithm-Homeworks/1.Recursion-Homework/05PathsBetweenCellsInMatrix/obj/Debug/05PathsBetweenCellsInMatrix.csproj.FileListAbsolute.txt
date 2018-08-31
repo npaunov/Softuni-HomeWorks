@@ -1,0 +1,6 @@
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\05PathsBetweenCellsInMatrix\bin\Debug\05PathsBetweenCellsInMatrix.exe.config
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\05PathsBetweenCellsInMatrix\bin\Debug\05PathsBetweenCellsInMatrix.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\05PathsBetweenCellsInMatrix\bin\Debug\05PathsBetweenCellsInMatrix.pdb
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\05PathsBetweenCellsInMatrix\obj\Debug\05PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\05PathsBetweenCellsInMatrix\obj\Debug\05PathsBetweenCellsInMatrix.exe
+C:\Users\Nicks\Google Диск\Study\Algorithm\1.Recursion-Homework\05PathsBetweenCellsInMatrix\obj\Debug\05PathsBetweenCellsInMatrix.pdb
